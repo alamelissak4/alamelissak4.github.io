@@ -17,6 +17,7 @@ h2 {
 	background-color: #c0c0c0;
 	padding-top: 12px;
 	padding-bottom: 10px;
+	border-radius: 25px;
 }
 .year {
 	float: right;
