@@ -44,6 +44,12 @@ footer {
 	text-align: center;
 }
 footer span{
-	align:right;
-	width: 350px;
+	clear: both;
+	text-align: center;
+	vertical-align: bottom;
+	padding: 5px;
+	font-weight: bold; 
+	border-style: solid;
+	width: 800px;
+	margin: 40px auto 60px;
 }
