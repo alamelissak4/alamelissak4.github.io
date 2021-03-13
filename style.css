@@ -10,7 +10,7 @@ body {
 h1{
 	text-align: center;
 }
-h2{
+h2 {
 	text-align: center;
 	border-top: solid thin #000;
 	border-bottom: solid thin #000;
@@ -34,8 +34,8 @@ h2{
 	border-radius: 25px;
   	background-repeat: repeat;
 }
-.img{
-  	border-radius: 25%;
+img {
+  	border-radius: 25px;
 }
 #content {
 	float:right;
@@ -43,7 +43,7 @@ h2{
 	vertical-align: bottom;
 	padding: 5px;
 }
-footer{
+footer {
 	clear: both;
 	text-align: center;
 	vertical-align: bottom;
