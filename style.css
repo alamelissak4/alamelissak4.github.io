@@ -36,12 +36,9 @@ h2{
 }
 #address span {
 	border-radius: 25px;
-  	background: url(paper.gif);
   	background-position: left top;
  	background-repeat: repeat;
  	padding: 20px;
- 	width: 200px;
- 	height: 150px;
 }
 #content {
 	float:right;
