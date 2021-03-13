@@ -16,7 +16,7 @@ h2 {
 	text-align: center;
 	border-top: solid thin #000;
 	border-bottom: solid thin #000;
-	background-color: #301934;
+	background-color: rebeccapurple;
 	padding-top: 12px;
 	padding-bottom: 10px;
 	border-radius: 25px;
@@ -35,7 +35,7 @@ h2 {
 	padding: 5px;
 	text-align: center;
 	border-radius: 25px;
-	background-color: #301934;
+	background-color: rebeccapurple;
 }
 #content {
 	float:right;
@@ -53,5 +53,5 @@ footer {
 	border-radius: 25px;
 	width: 800px;
 	margin: 40px auto 60px;
-	background-color: #301934;
+	background-color: rebeccapurple;
 }
