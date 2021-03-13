@@ -50,6 +50,7 @@ footer{
 	padding: 5px;
 	font-weight: bold; 
 	border-style: solid;
+	border-radius: 30px;
 	width: 800px;
 	margin: 40px auto 60px;
 }
