@@ -34,15 +34,6 @@ h2{
 	border-radius: 25px;
   	background-repeat: repeat;
 }
-#address span{
-	border-radius: 25px;
-  	background: url(Melissa.jpg);
-  	background-position: left top;
-  	background-repeat: repeat;
-  	padding: 20px;
-  	width: 200px;
-  	height: 150px;
-}
 #content {
 	float:right;
 	width: 70%;
