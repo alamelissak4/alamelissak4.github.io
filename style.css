@@ -34,8 +34,8 @@ h2{
 	border-radius: 25px;
   	background-repeat: repeat;
 }
-img{
-  	border-radius: 50%;
+.img{
+  	border-radius: 25%;
 }
 #content {
 	float:right;
