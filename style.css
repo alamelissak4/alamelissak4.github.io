@@ -38,12 +38,7 @@ h2{
 	vertical-align: bottom;
 	padding: 5px;
 }
-footer {
-	clear: both;
-	top-border: think solid #000;
-	text-align: center;
-}
-footer span{
+footer{
 	clear: both;
 	text-align: center;
 	vertical-align: bottom;
