@@ -9,7 +9,7 @@ body {
 	margin-right: 20px;
 }
 h1{
-	font-size: 150%;
+	font-size: 250%;
 	text-align: center;
 }
 h2 {
@@ -36,15 +36,7 @@ h2 {
 	text-align: center;
 	border-radius: 25px;
   	background-repeat: repeat;
-}
-.Melissa img {
-  	border-radius: 25px;
-  	background: Melissa.jpg;
-  	background-position: left top;
-  	background-repeat: repeat;
-  	padding: 20px;
-  	width: 200px;
-  	height: 150px;
+	background-color: #c0c0c0;
 }
 #content {
 	float:right;
@@ -62,5 +54,5 @@ footer {
 	border-radius: 25px;
 	width: 800px;
 	margin: 40px auto 60px;
-	
+	background-color: #c0c0c0;
 }
