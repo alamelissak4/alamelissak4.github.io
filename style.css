@@ -34,8 +34,8 @@ h2{
 	border-radius: 30px;
   	background-repeat: repeat;
 }
-img.rounded-corners {
-  	border-radius: 30px;
+img{
+  	border-radius: 50%;
 }
 #content {
 	float:right;
