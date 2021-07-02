@@ -2,7 +2,7 @@ html {
 	padding: 20px;
 }
 body {
-	background-color: F5F5F5;
+	background-color: A9A9A9;
 	font-family: Garamond , "serif";
 	padding: 10px;
 	margin-left: 20px;
@@ -60,5 +60,5 @@ footer {
 	border-radius: 25px;
 	width: 800px;
 	margin: 40px auto 60px;
-	background-color: 051959;
+	background-color: F5F5F5;
 }
